@@ -1,0 +1,8 @@
+[share]
+comment = share
+path = /abc
+inherit acls = yes
+writable = yes
+valid users = deb
+read list = deb
+write list = deb
